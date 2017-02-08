@@ -1,5 +1,5 @@
 class School
-
+# fake comment
 	attr_reader :grade, :student_name
 
 	
